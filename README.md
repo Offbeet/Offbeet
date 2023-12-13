@@ -11,7 +11,7 @@ Minimal experience in Lua, and GDScript
 
 I don't know completely what I'm using github for, however this will probably be where I'll code my website sometime in the future.
 
-~Where I am on other platforms~
+Where I am on other platforms:
 Twitter - https://twitter.com/Offbeet2886
 Discord Server - https://discord.gg/fVsV2zJD9
 Youtube - https://www.youtube.com/channel/UCFz0...
