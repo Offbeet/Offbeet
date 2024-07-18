@@ -1,13 +1,6 @@
-Extended Bio or something IDK!!!!
-
-- I like games
-- Transfemme
-- Feel free to chat
-- Minor 󠁛󠀣󠀱󠀳󠀱󠀳󠀴󠀲󠀬󠀣󠁥󠀶󠁡󠁦󠁦
-
 Coding Experience:
 - Scratch/Turbowarp - ~6 Years
-- C# - ~4 Months
+- C# - ~6 Months
 - Minimal experience in Lua, and GDScript
 
 I don't know completely what I'm using github for, however this will probably be where I'll code my website sometime in the future.
